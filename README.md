@@ -1,1 +1,1 @@
-https://0xacab.org/Crystallinqq/rushercrack-rewrite/-/releases
+https://git.rip/Crystallinqq/rushercrack-rewrite/-/releases
